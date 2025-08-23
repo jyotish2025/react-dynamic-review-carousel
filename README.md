@@ -1,3 +1,5 @@
+![This Next.js project implements a dynamic, responsive carousel component that fetches and displays user reviews in real-time. It adapts smoothly to different screen sizes and provides intuitive navigation controls.](preview.png)
+
 # ReactJS Dynamic Review Carousel
 
 ## Project Overview
